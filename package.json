@@ -1,0 +1,26 @@
+{
+  "name": "anna-classifier",
+  "version": "0.1.0",
+  "description": "Indefininte article classifier",
+  "main": "index.js",
+  "files": [
+    "lib",
+    "index.js"
+  ],
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/raipc/anna.git"
+  },
+  "keywords": [
+    "article"
+  ],
+  "author": "Anton Rybochkin",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/raipc/anna/issues"
+  },
+  "homepage": "https://github.com/raipc/anna#readme"
+}
